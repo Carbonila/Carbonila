@@ -1,4 +1,4 @@
-## Hi there, I'm Carbonila 🍄
+##🍄 Hi there, I'm Carbonila
 
 I am a biology student that's trying to improve some skills and learn a little bit of programation. Well, probably you won't see nothing that I'm doing, but I'm happy that you are here!
 
