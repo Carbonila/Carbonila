@@ -2,7 +2,7 @@
 
 I am a biology student that's trying to improve some skills and learn a little bit of programation. Well, probably you won't see nothing that I'm doing, but I'm happy that you are here!
 
-![Carbonila's stats](https://github-readme-stats.vercel.app/api?username=Carbonila's stats&show_icons=true&theme=dracula)
+![Carbonila's stats](https://github-readme-stats.vercel.app/api?username=Carbonila'sstats&show_icons=true&theme=dracula)
 
 
 ### Here's some languages that I'm using for now:
