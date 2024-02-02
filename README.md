@@ -1,10 +1,10 @@
 ## 🍄 Hi there, I'm Carbonila
 
-I am a biology student that's trying to improve some skills and learn a little bit of programation. Well, probably you won't see nothing that I'm doing, but I'm happy that you are here!
+Well, probably you won't see nothing that I'm doing, but I'm glad that you are here! My projects are about biology in am broadest sense. I had been inspired by some professors and by Richard Dawkins to learn programming and apply it on my biology studies.
+
+Initially I started learning something about Python, so probably can I turn some of my repositories public with projects in this language.
 
 ![carbonila's GitHub stats](https://github-readme-stats.vercel.app/api?username=Carbonila&show_icons=true&theme=dracula)
-
-
 
 ### Here's some languages that I'm using for now:
 <div style = "display: inline_block">
@@ -14,8 +14,3 @@ I am a biology student that's trying to improve some skills and learn a little b
   <img height = 50 width = 50 align = "center" alt = "CSS 3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img height = 50 width = 50 align = "center" alt = "R" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 </div>
-
-<div style = background-color:rgb(129, 253, 179)>
-  <img height = 50 width = 50 align = "center" alt = "LaTeX" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
-</div>
-
