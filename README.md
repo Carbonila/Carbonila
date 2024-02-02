@@ -15,7 +15,7 @@ I am a biology student that's trying to improve some skills and learn a little b
   <img height = 50 width = 50 align = "center" alt = "R" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
 </div>
 
-<div style = background-color:rgba(129, 253, 179, 0)>
+<div style = background-color:rgb(129, 253, 179)>
   <img height = 50 width = 50 align = "center" alt = "LaTeX" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
 </div>
 
