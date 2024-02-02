@@ -19,4 +19,5 @@ I am a biology student that's trying to improve some skills and learn a little b
   <img height = 50 width = 50 align = "center" alt = "HTML 5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img height = 50 width = 50 align = "center" alt = "CSS 3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img height = 50 width = 50 align = "center" alt = "R" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+  <img height = 50 width = 50 align = "center" alt = "LaTeX" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" />
 </div>
